@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+div{
+    background-color: #74a60a;
+    text-align: center;
+}
+
+div a{
+    color: white;
+    text-decoration: none;
+    margin-right: 2px;
+    font-weight: bold;
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e6e6e6;
+}
+/*#estado normal*/
+a:link{
+    color:#fff;
+}  
+/*#sobre o link*/
+a:hover{
+    text-decoration: none;
+}
+/*#link já selecionado*/
+a:visited{
+    color:#467302;
+    text-decoration: underline;
+}
+
+#area-cabecalho{
+    height:150px;
+    background-color: #74a60a;  
+    text-align:center;  
+    padding: 15px;
+}
